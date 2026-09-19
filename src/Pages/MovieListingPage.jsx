@@ -75,7 +75,7 @@ export default function MovieListingPage() {
               <h2 className="text-2xl font-bold text-gray-500 flex gap-2 items-center">
                 <Clapperboard /> Oops! No movies found
               </h2>
-              <p className="text-yellow-300">
+              <p className="text-yellow-200">
                 We couldn't find anything matching your search.
               </p>
             </div>
